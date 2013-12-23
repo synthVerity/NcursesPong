@@ -1,0 +1,8 @@
+# Ncurses Pong Clone #
+
+Pong clone created using the Ncurses library. Doesn't have an AI opponent yet.
+It is also placed vertically instead of horizontally. It is basically like
+playing handball on a screen. Will probably add an AI opponent at some point.
+Started as an experiment with Ncurses windows, turned into what it is.
+Compiled with 'gcc pong.c -lncurses' Do what you wish with it, as it was more
+a concept project for personal progress than anything else.
